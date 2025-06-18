@@ -1,8 +1,8 @@
 /****************************************************************************
- * Copyright (C) 2016 Universite de Rennes 1. All rights reserved.
+ * Copyright (C) 2016 Universite de Rennes. All rights reserved.
  *
  * This software was developed at:
- * Universite de Rennes 1
+ * Universite de Rennes
  * Campus Universitaire de Beaulieu
  * 35042 Rennes Cedex
  *
